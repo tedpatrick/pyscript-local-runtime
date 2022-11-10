@@ -26,8 +26,6 @@ And PyScript loaded locally like so:
 
 Everything you need is now local. Perfect for Extensions, Offline, Environments where the Internet is not available.
 
-Credits to https://github.com/PFython/ChromeAWSOM for the question.
-
 Regards,
 
 Ted :)
